@@ -24,14 +24,6 @@ Additionally, in order to stem the tide of oncoming retirees, Pewlett Hackard wa
 <p align="center">
   
 <img width="565" alt="Screen Shot 2021-10-16 at 1 27 13 PM" src="https://user-images.githubusercontent.com/87885677/137599969-e641eea9-3ffd-44e0-8337-a2e21ca57406.png">
-  
-</p>
-
-After gathering this data, it felt necessary to better understand the total number of employees who would be engaged in the mentorship program to see if that would shore up the number of employees on the brink of retirement. It turns out, that number is well short of what is needed as indicated in the image below.
-
-<p align="center">
-
-<img width="187" alt="Screen Shot 2021-10-16 at 1 40 40 PM" src="https://user-images.githubusercontent.com/87885677/137600201-8271eb82-776e-4c69-b32e-8fb3e289224a.png">
 
 </p>
 
@@ -47,8 +39,18 @@ After gathering this data, it felt necessary to better understand the total numb
 **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
   As it stands, there will be approximately 90,398 rolls that will need to be filled if all employees who are eligible retire.
+  
+  <p align="center">
+  
+  <img width="72" alt="Screen Shot 2021-10-16 at 2 17 14 PM" src="https://user-images.githubusercontent.com/87885677/137601113-fbacecb0-63fc-4576-9956-1d448d45002c.png">
+</p>
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
-  The short answer is yes. With 90,398 employees eligible for retirement, there are only 1,549 employees who are eligible for the mentorship program. The only concern from this is will there be enough employees to fill all of the positions that are vacated?
+  The short answer is yes. With 90,398 employees eligible for retirement, there are only 1,549 employees who are eligible for the mentorship program (table below). The only concern from this is will there be enough employees to fill all of the positions that are vacated?
 
+<p align="center">
+
+<img width="187" alt="Screen Shot 2021-10-16 at 1 40 40 PM" src="https://user-images.githubusercontent.com/87885677/137600201-8271eb82-776e-4c69-b32e-8fb3e289224a.png">
+  
+</p>
